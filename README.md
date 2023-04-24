@@ -27,6 +27,7 @@ Designed a module to fit on the servo motor to reduce jerk impact. It
 incorporated non-contact rotary encoders (Bourns AMS) and a torsional
 spring to estimate torque. Prototyping involved Laser cutting, Turning and
 Milling.
+
 ![image](https://github.com/shubhamwani376/MechanicalDesignPortfolio/blob/main/Reference/iisc.jpg)
 ![image](https://github.com/shubhamwani376/MechanicalDesignPortfolio/blob/main/Reference/iisc2.jpg)
 
