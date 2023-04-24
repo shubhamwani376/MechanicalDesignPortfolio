@@ -12,7 +12,7 @@ displacement of compliant beams.
 
 ##  2. V-REX 80 
 A trussed device to lift heavy objects for small scale industries, with forklift attachment.
-Contribution: Team, kinematic design, actuator sizing, mechanical design,
+Contribution: kinematic design, actuator sizing, mechanical design,
 off-the-shelf part selection and prototyping.
 The device works with 2 linear actuators and a 12V battery and can lift 80kg
 (180 lb.) with minimum human effort. This project involved significant ANSYS
@@ -22,7 +22,7 @@ FEA because of lifting pallet loads, to estimate deflection and stresses.
 ![image](https://github.com/shubhamwani376/MechanicalDesignPortfolio/blob/main/Reference/vrex2.png)
 
 ## 3. [Design, Development and Fabrication of a Series Elastic Actuator](https://drive.google.com/file/d/1mJYNtMy62UZQn2ozjJne5kkfdMDKdUJf/view?usp=sharing)
-Contribution: Individual
+
 Designed a module to fit on the servo motor to reduce jerk impact. It
 incorporated non-contact rotary encoders (Bourns AMS) and a torsional
 spring to estimate torque. Prototyping involved Laser cutting, Turning and
@@ -31,7 +31,7 @@ Milling.
 ![image](https://github.com/shubhamwani376/MechanicalDesignPortfolio/blob/main/Reference/iisc2.jpg)
 
 ## 4. [RoboXO - A tic-tac-toe playing Robot](https://github.com/shubhamwani376/RoboXO)
-Contribution: Team, I contributed to ideation (kinematic), CAD parts
+Contribution: ideation (kinematic), CAD parts
 assembly, forward and inverse kinematics, control through MATLAB.
 4 DoF robot with electromagnet end effector. X movement is on parallel
 rails, Y and Z through the serial arm. Each joint has a Dynamixel servo motor,
