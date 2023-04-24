@@ -1,6 +1,6 @@
 # MechanicalDesignPortfolio
 
-## 1. [Design of Compact High-Speed flexure based Micro 3D Printer] (https://drive.google.com/file/d/1S0hZVuJbHFU6S8SvaRywW3aEAxqxxq-C/view?usp=sharing)
+## 1. [Design of Compact High-Speed flexure based Micro 3D Printer](https://drive.google.com/file/d/1S0hZVuJbHFU6S8SvaRywW3aEAxqxxq-C/view?usp=sharing)
 
 Contribution: Individual
 
@@ -21,7 +21,7 @@ FEA because of lifting pallet loads, to estimate deflection and stresses.
 ![image](https://github.com/shubhamwani376/MechanicalDesignPortfolio/blob/main/Reference/vrex1.png)
 ![image](https://github.com/shubhamwani376/MechanicalDesignPortfolio/blob/main/Reference/vrex2.png)
 
-## 3. [Design, Development and Fabrication of a Series Elastic Actuator] (https://drive.google.com/file/d/1mJYNtMy62UZQn2ozjJne5kkfdMDKdUJf/view?usp=sharing)
+## 3. [Design, Development and Fabrication of a Series Elastic Actuator](https://drive.google.com/file/d/1mJYNtMy62UZQn2ozjJne5kkfdMDKdUJf/view?usp=sharing)
 Contribution: Individual
 Designed a module to fit on the servo motor to reduce jerk impact. It
 incorporated non-contact rotary encoders (Bourns AMS) and a torsional
@@ -30,7 +30,7 @@ Milling.
 ![image](https://github.com/shubhamwani376/MechanicalDesignPortfolio/blob/main/Reference/iisc.jpg)
 ![image](https://github.com/shubhamwani376/MechanicalDesignPortfolio/blob/main/Reference/iisc2.jpg)
 
-## 4. [RoboXO - A tic-tac-toe playing Robot] (https://github.com/shubhamwani376/RoboXO)
+## 4. [RoboXO - A tic-tac-toe playing Robot](https://github.com/shubhamwani376/RoboXO)
 Contribution: Team, I contributed to ideation (kinematic), CAD parts
 assembly, forward and inverse kinematics, control through MATLAB.
 4 DoF robot with electromagnet end effector. X movement is on parallel
@@ -40,7 +40,7 @@ with a relay controlling the magnet EE.
 
 
 # Control Portfolio:
-## 5. [Double Inverted Pendulum control] (https://github.com/shubhamwani376/DigitalMotionControl)
+## 5. [Double Inverted Pendulum control](https://github.com/shubhamwani376/DigitalMotionControl)
 Grey box System Identification for motor, pendulum, and driver to update
 motor model. Code generation and deployment to TI C2000 controller and
 Maxon motor using Simulink embedded coder for data acquisition (DAQ).
