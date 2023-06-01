@@ -8,7 +8,8 @@ This printer has compliant X and Y stages with RLS position encoders and
 contactless voice coil actuator. The laser is guided through mirrors to the
 resin plate to create small parts ~20um accuracy. ANSYS used to find
 displacement of compliant beams.
-![image](https://github.com/shubhamwani376/MechanicalDesignPortfolio/blob/main/Reference/iitb.png)
+
+<img src="https://github.com/shubhamwani376/MechanicalDesignPortfolio/blob/main/Reference/iitb.png" width="48">
 
 ##  2. V-REX 80 
 A trussed device to lift heavy objects for small scale industries, with forklift attachment.
