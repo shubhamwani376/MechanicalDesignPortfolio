@@ -45,7 +45,7 @@ Contributions: a. Perform requirements gathering, kinematics and product design 
 
 b. Select off-the-shelf parts, actuator sizing, abttery selection, etc.
 
-<img src="https://github.com/shubhamwani376/MechanicalDesignPortfolio/blob/main/Reference/vrex1.png" width="300"> <img src="https://github.com/shubhamwani376/MechanicalDesignPortfolio/blob/main/Reference/vrex2.png" width="300"> <img src="https://github.com/shubhamwani376/MechanicalDesignPortfolio/blob/main/Reference/vrexphoto.png" width="300">
+<img src="https://github.com/shubhamwani376/MechanicalDesignPortfolio/blob/main/Reference/vrex2.png" width="300"> <img src="https://github.com/shubhamwani376/MechanicalDesignPortfolio/blob/main/Reference/vrexphoto.png" width="300">
 
 
 ## [Design of Compact High-Speed flexure based Micro 3D Printer](https://drive.google.com/file/d/1S0hZVuJbHFU6S8SvaRywW3aEAxqxxq-C/view?usp=sharing)
